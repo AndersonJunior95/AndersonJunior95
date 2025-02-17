@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Anderson Junior 😁👨🏻‍💻
+##### Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar. Adoro transformar ideias em código e ver como pequenos detalhes podem fazer uma grande diferença. Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-gs-junior)
 
@@ -13,7 +14,5 @@
     <img align = "center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     <img align = "center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
-
-Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar. Adoro transformar ideias em código e ver como pequenos detalhes podem fazer uma grande diferença. Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJunior95)](https://github.com/AndersonJunior95/github-readme-stats)
