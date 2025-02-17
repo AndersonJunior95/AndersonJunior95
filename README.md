@@ -1,5 +1,5 @@
-### Olá! Eu sou o Anderson Junior 😁👨🏻‍💻
-##### Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar. Adoro transformar ideias em código e ver como pequenos detalhes podem fazer uma grande diferença. Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação
+## Olá! Eu sou o Anderson Junior 😁👨🏻‍💻
+Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar. Adoro transformar ideias em código e ver como pequenos detalhes podem fazer uma grande diferença. Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-gs-junior)
 
