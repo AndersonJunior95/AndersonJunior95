@@ -1,18 +1,50 @@
-## Olá! Eu sou o Anderson Junior 😁👨🏻‍💻
-Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar. Adoro transformar ideias em código e ver como pequenos detalhes podem fazer uma grande diferença. Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação
+# 👋 Olá! Eu sou o Anderson Junior 😁👨‍💻
 
-[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-gs-junior)
+Aqui no meu GitHub, cada projeto é uma nova oportunidade de aprender, criar e me desafiar.  
+Adoro transformar ideias em código e ver como **pequenos detalhes podem fazer uma grande diferença**.  
+Estou sempre em busca de evoluir e compartilhar minhas aventuras no mundo da programação.
 
-![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonJunior95&show_icons=true&theme=dracula)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-gs-junior)
 
-## Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline_block"><br/>
-    <img align = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align = "center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align = "center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align = "center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img align = "center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-</div><br/>
+## ⚙️ Tecnologias que uso no meu dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonJunior95)](https://github.com/AndersonJunior95/github-readme-stats)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+- 🔄 [**Formulário Animado com CSS e JS Puro**](https://github.com/AndersonJunior95/Formul-rio-animado-CSS-JS-Puro)  
+  Formulário moderno e interativo com JavaScript puro + CSS Animation.
+
+- 🧪 [**Projeto ROCKET.Q**](https://github.com/AndersonJunior95/Projeto-ROCKET.Q)  
+  Projeto inspirado no evento da Rocketseat com uso de EJS.
+
+- 🌐 [**Portfólio**](https://github.com/AndersonJunior95/Portif-lio)  
+  Portfólio pessoal com foco em HTML, CSS e JS para estudos.
+
+- 🌊 [**APS - OCEANOS VIVOS**](https://github.com/AndersonJunior95/APS-OCEANOS-VIVOS)  
+  Projeto acadêmico com foco em preservação dos oceanos.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![AndersonJunior95's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonJunior95&show_icons=true&theme=radical)
+
+---
+
+## 💡 Curiosidades
+
+- 📚 Curso **Sistemas de Informação**  
+- 💬 Gosto de compartilhar o que aprendo  
+- 🌱 Sempre em busca de melhorar meus projetos e escrever um código mais limpo e organizado
+
+---
+
+🧠 _"Transformando ideias em código e desafios em aprendizado."_  
